@@ -27,6 +27,6 @@ OCaml_Manual.ml contains the code copied from my try.ocamlpro.com session.
 Mostly this is retyped content from the examples. Retyped content is ussful when in the early stages of learning a language as retyping is a good way to learn the basic syntax and idioms.
 Occasionally there are personal exercises where I will have an idea of how I can challenge myself to try something slightly different than the exmaple content to test my knowledge of what i have learned so far. These are indicated by leading and trailing comments of the form (* personal exercise start*) and (* personal exercise end*), such that these can be found easily by searching the code. 
 
-## Hours Tracking
+## Tracking Time Spent
 For the porpuse of reporting the time it took for me to learn various parts, I have kept a detail log of the time spent, and what I learned.
 https://docs.google.com/spreadsheets/d/1EjtlMiWCFRwPfY1HU-veXlC_bL-cR8ZGAxN42yx2dAA/edit?usp=sharing
