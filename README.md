@@ -29,3 +29,4 @@ Occasionally there are personal exercises where I will have an idea of how I can
 
 ## Hours Tracking
 For the porpuse of reporting the time it took for me to learn various parts, I have kept a detail log of the time spent, and what I learned.
+https://docs.google.com/spreadsheets/d/1EjtlMiWCFRwPfY1HU-veXlC_bL-cR8ZGAxN42yx2dAA/edit?usp=sharing
