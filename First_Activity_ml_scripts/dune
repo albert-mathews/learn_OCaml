@@ -1,0 +1,12 @@
+;(include_subdirs unqualified)
+
+(executable
+ (name square)
+ (libraries base stdio)
+ ; lookup syntax to not trun warnings into errors
+ ;(libraries batteries.unthreaded yojson zarith zarith_stubs_js fileutils)
+ ;(modes byte exe js)
+ ;(preprocess (pps ppx_compare ppx_deriving.show ppx_yojson_conv ppx_hash))
+ ; -dsource enables --source-map to dump source and see the effect of ppx preprocessing
+ ; (flags (:standard -dsource))
+)
