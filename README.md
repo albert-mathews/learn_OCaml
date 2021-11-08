@@ -19,4 +19,4 @@ https://try.ocamlpro.com/ to impleement and evaluate OCaml in the browser.
 Note: the content related to this activity is organized as follows:
 OCaml_Manual.ml contains the code copied from my try.ocamlpro.com session.
 Mostly this is retyped content from the examples. Retyped content is ussful when in the early stages of learning a language as retyping is a good way to learn the basic syntax and idioms.
-Occasionally there are personal exercises where I will have an idea of how I can challenge myself to try something slightly different than the exmaple content to test my knowledge of what i have learned so far. These are indicated by leading comments of the form (* personal exercise *), such that these can be found easily by searching the code. 
+Occasionally there are personal exercises where I will have an idea of how I can challenge myself to try something slightly different than the exmaple content to test my knowledge of what i have learned so far. These are indicated by leading and trailing comments of the form (* personal exercise start*) and (* personal exercise end*), such that these can be found easily by searching the code. 
