@@ -8,7 +8,10 @@ I started knowing nothing about either OCaml, nor Functionl Programming, nor FL 
 I started my following the Guided Tour from RealWorldOCaml
 https://dev.realworldocaml.org/guided-tour.html
 This cource assumed that I was using a 'top-level' that was initialized with jane Street 'Base' or 'Core' libs.
-My organization is not presently using thes elibs, so this learning pathway resulted in a bit of riction.
+My organization is not presently using these libs, so this learning pathway resulted in a bit of friction.
 
 ## Second Activity: OCmal Manual
-I transitioned to reading through and following the examples in
+I transitioned to reading through and following the examples in the OCaml Manual:
+https://ocaml.org/manual/index.html
+this did not make any assumptions about the top-level libs, and therefore i could use:
+https://try.ocamlpro.com/ to impleement and evaluate OCaml in the browser.
